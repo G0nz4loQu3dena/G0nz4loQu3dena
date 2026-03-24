@@ -27,7 +27,7 @@
   About Me
 </h2>
 
-<table>
+<table border="0">
 <tr>
 <td valign="top" width="75%">
 
