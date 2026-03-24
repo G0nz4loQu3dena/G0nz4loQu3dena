@@ -1,11 +1,9 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  &nbsp;Gonzalo Quedena&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Gonzalo%20Quedena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Open-Source&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;Mobile+App+Developer;Open-Source+Enthusiast;Always+learning+new+things" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+App+Developer;Open-Source+Enthusiast;Always+learning+new+things" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -20,16 +18,12 @@
   </a>
 </p>
 
-</br>
+---
 
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   About Me
 </h2>
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="Programmer gif"/>
-</p>
 
 <p align="justify">
 I'm a software developer with a strong focus on building clean, scalable, and maintainable applications. I work across the full stack — from designing RESTful APIs and backend services to crafting responsive and intuitive user interfaces. I care deeply about software quality, architecture decisions, and writing code that's easy to understand and extend.
@@ -43,15 +37,15 @@ On the mobile side, I develop cross-platform apps using Flutter and native Andro
 I'm always exploring new tools, frameworks, and best practices. Currently deepening my expertise in <strong>cloud-native development</strong>, <strong>distributed systems</strong>, and <strong>AI-assisted workflows</strong>. I believe that staying curious is what separates good engineers from great ones.
 </p>
 
+<br/>
+
 <p align="center">
-  &nbsp;&nbsp;👯&nbsp; Open to collaborating on <strong>open-source projects</strong> and impactful software
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  💬&nbsp; Ask me about <strong>full-stack development</strong>, <strong>mobile apps</strong>, <strong>software architecture</strong>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  ⚡&nbsp; Clean code is a form of communication
+  <img src="https://img.shields.io/badge/👯_Open_to_collaborate-2D2D2D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💬_Ask_me_about_full--stack-2D2D2D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡_Clean_code_advocate-2D2D2D?style=for-the-badge"/>
 </p>
 
-</br>
+---
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
@@ -92,7 +86,7 @@ I'm always exploring new tools, frameworks, and best practices. Currently deepen
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
-</br>
+---
 
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">
@@ -110,3 +104,7 @@ I'm always exploring new tools, frameworks, and best practices. Currently deepen
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=G0nz4loQu3dena&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+</div>
