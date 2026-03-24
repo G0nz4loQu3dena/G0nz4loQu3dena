@@ -27,9 +27,7 @@
   About Me
 </h2>
 
-<table border="0">
-<tr>
-<td valign="top" width="75%">
+<img align="right" width="170px" hspace="60" vspace="60" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Programmer gif"/>
 
 <p align="justify">
 I'm a software developer with a strong focus on building clean, scalable, and maintainable applications. I work across the full stack — from designing RESTful APIs and backend services to crafting responsive and intuitive user interfaces. I care deeply about software quality, architecture decisions, and writing code that's easy to understand and extend.
@@ -47,12 +45,7 @@ I'm always exploring new tools, frameworks, and best practices. Currently deepen
 - 💬 &nbsp;Ask me about **full-stack development**, **mobile apps**, **software architecture**, or **clean code**
 - ⚡ &nbsp;Clean code is a form of communication — and I take that seriously
 
-</td>
-<td valign="middle" align="center" width="25%">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="160px" alt="Programmer gif"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 </br>
 
