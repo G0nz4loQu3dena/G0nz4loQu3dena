@@ -27,7 +27,9 @@
   About Me
 </h2>
 
-<img align="right" width="170px" hspace="60" vspace="60" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Programmer gif"/>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="Programmer gif"/>
+</p>
 
 <p align="justify">
 I'm a software developer with a strong focus on building clean, scalable, and maintainable applications. I work across the full stack — from designing RESTful APIs and backend services to crafting responsive and intuitive user interfaces. I care deeply about software quality, architecture decisions, and writing code that's easy to understand and extend.
@@ -41,11 +43,13 @@ On the mobile side, I develop cross-platform apps using Flutter and native Andro
 I'm always exploring new tools, frameworks, and best practices. Currently deepening my expertise in <strong>cloud-native development</strong>, <strong>distributed systems</strong>, and <strong>AI-assisted workflows</strong>. I believe that staying curious is what separates good engineers from great ones.
 </p>
 
-- 👯 &nbsp;Open to collaborating on **open-source projects** and impactful software
-- 💬 &nbsp;Ask me about **full-stack development**, **mobile apps**, **software architecture**, or **clean code**
-- ⚡ &nbsp;Clean code is a form of communication — and I take that seriously
-
-<br clear="right"/>
+<p align="center">
+  &nbsp;&nbsp;👯&nbsp; Open to collaborating on <strong>open-source projects</strong> and impactful software
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  💬&nbsp; Ask me about <strong>full-stack development</strong>, <strong>mobile apps</strong>, <strong>software architecture</strong>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚡&nbsp; Clean code is a form of communication
+</p>
 
 </br>
 
